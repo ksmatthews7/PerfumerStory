@@ -1,0 +1,35 @@
+body {background-color: #01608C; width: 800px;}
+
+.assignmentrow {
+	margin: 10%;
+	padding: 20px;
+	text-align: center;
+}
+
+.maintext {
+	color: grey;
+	font-size: 20px;
+	font-weight: 800;
+	width: 70%;
+	background-color: white;
+	display: inline;
+}
+
+.blurbtext {
+	font-family: sans-serif;
+	width: 100px;
+	display: inline;
+	margin: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {text-align: center;}
