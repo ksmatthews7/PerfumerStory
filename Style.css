@@ -1,5 +1,11 @@
 body {background-color: #01608C; width: 800px;}
 
+.content {
+	max-width: 500px;
+	margin: auto;
+}
+
+
 .assignmentrow {
 	margin: 10%;
 	padding: 20px;
@@ -32,4 +38,16 @@ body {background-color: #01608C; width: 800px;}
   text-decoration: none;
 }
 
-h1 {text-align: center;}
+.footer { 
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center; 
+}
+
+h1 {text-align: center;
+
+font-style: italic;}
